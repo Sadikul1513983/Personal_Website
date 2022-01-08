@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    font-family: 'The Nautigal', cursive;
+}
+h1{
+    font-weight: bold;
+}
+
+.pink{
+    color: palevioletred;
+}
+.new{
+    float: left;
+    width: 50%;
+}
+#Honda{
+    border-radius: 5px;
+    color: purple;
+    background-image: linear-gradient(white,green);
+    text-decoration:none ;
+    border: 2px solid;
+}
+#xoss{
+    color: chartreuse;
+}
+.xavier{
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+#yamaha{
+    border-radius: 5px;
+    color: purple;
+    background-image: linear-gradient(white,green);
+    text-decoration:none ;
+    border: 2px solid;
+}
+#gha{
+    font-weight: bold;
+    text-align: center;
+}
+.kha{
+    float: left;
+    width: 502px;
+}
+.five{
+    text-align: center;
+}
+.six{
+    box-shadow: green;
+    border: 2px solid pink;
+}
+.dv{
+    text-align: center;
+    border: 1px solid green;
+    box-shadow: 10 px 10 px 10 px 10 px yellowgreen;
+}
